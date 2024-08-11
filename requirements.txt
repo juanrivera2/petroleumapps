@@ -1,0 +1,16 @@
+streamlit
+Pillow
+streamlit-extras
+langchain-community
+python-docx
+streamlit
+llama-index
+langchain
+python-dotenv
+azure-ai-formrecognizer
+azure-core
+azure-identity
+azure-openai
+
+
+
