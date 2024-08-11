@@ -10,7 +10,7 @@ python-dotenv
 azure-ai-formrecognizer
 azure-core
 azure-identity
-azure-openai
+openai
 
 
 
